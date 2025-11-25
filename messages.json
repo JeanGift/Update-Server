@@ -1,0 +1,59 @@
+[
+  {
+    "user_email": "user@example.com",
+    "messages": [
+      {
+        "from": "user",
+        "text": "Hello!",
+        "timestamp": "2025-09-14T20:00:00"
+      },
+      {
+        "from": "admin",
+        "text": "Hi there!",
+        "timestamp": "2025-09-14T20:05:00"
+      }
+    ]
+  },
+  {
+    "user_email": "jo",
+    "messages": [
+      {
+        "from": "user",
+        "text": "hi",
+        "timestamp": "2025-09-14T17:40:12.286134"
+      }
+    ]
+  },
+  {
+    "user_email": "jeangiftt128@gmail.com",
+    "messages": [
+      {
+        "from": "user",
+        "text": "hi",
+        "timestamp": "2025-09-14T17:41:13.763193"
+      },
+      {
+        "from": "user",
+        "text": "123",
+        "timestamp": "2025-09-14T17:52:58.851475"
+      }
+    ]
+  },
+  {
+    "user_email": "jeangift128@gmail.com",
+    "messages": [
+      {
+        "from": "user",
+        "text": "Hi",
+        "timestamp": "2025-09-14T17:55:17.805079",
+        "viewed": true
+      }
+    ]
+  },
+  {
+    "sender": "jeangift128@gmail.com",
+    "receiver": "admin@example.com",
+    "content": "hi",
+    "timestamp": "2025-09-14T19:11:10.693286"
+  }
+]
